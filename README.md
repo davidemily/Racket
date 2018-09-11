@@ -22,3 +22,4 @@ the drracket file.
 
 #### DrRacket
 DrRacket is the only available IDE for Racket that I know of. It's a great tool to use but it would be nice for additional options. The top 'half' of the program is called the "definitions area" and is where the libraries and functions can be declared. The bottom 'half' is the "interactions window" and is used to evaluate expressions.
+[logo]: https://github.com/davidemily/Racket/blob/master/drracket.png
