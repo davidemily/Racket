@@ -11,3 +11,14 @@ The language can be used as a functional or procedural programming language, sup
 
 #### Where can I start using Racket?
 Everything you'd ever need can be found at [racket-lang.org](https://racket-lang.org/)! The site holds downloads for the language, the IDE, packages, and all of the free books and documentation you could ever want.
+
+#### Install Racket
+As a Linux user, installing Racket was easy as doing
+```
+sudo apt-get install racket
+```
+Additionally, the user could isntall Racket from the [website](https://download.racket-lang.org/), go to the bin folder and run 
+the drracket file.
+
+#### DrRacket
+DrRacket is the only available IDE for Racket that I know of. It's a great tool to use but it would be nice for additional options. The top 'half' of the program is called the "definitions area" and is where the libraries and functions can be declared. The bottom 'half' is the "interactions window" and is used to evaluate expressions.
