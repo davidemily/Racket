@@ -8,3 +8,7 @@ Beginning to start the process was really easy. There's a ton great documentatio
 ## Description
 The typical start for a Racket document is ```#lang Racket``` which uses the default Racket language. This can be done through the Racket ![RacketLang](./racketLang.png) 
 For use in web development the ```#lang web-server/insta```language, which matches the Racket syntax but uses different commands. ![Beginning Blog](./beginningWebsite.png) Using the web-server/insta language comes with benefits of settings ports, handle styling, SSL, etc.
+
+
+## What I did
+I used the documentation to create the folling website ![RacketWebsite](), which can be accessed at [http://thedavidemily.com:3000/servlets/standalone.rkt](http://thedavidemily.com:3000/servlets/standalone.rkt)
