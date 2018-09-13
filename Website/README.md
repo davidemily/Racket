@@ -11,4 +11,4 @@ For use in web development the ```#lang web-server/insta```language, which match
 
 
 ## What I did
-I used the documentation to create the folling website ![RacketWebsite](), which can be accessed at [http://thedavidemily.com:3000/servlets/standalone.rkt](http://thedavidemily.com:3000/servlets/standalone.rkt)
+I used the documentation to create the folling website ![RacketWebsite](./standaloneRacket.png), which can be accessed at [http://thedavidemily.com:3000/servlets/standalone.rkt](http://thedavidemily.com:3000/servlets/standalone.rkt)
